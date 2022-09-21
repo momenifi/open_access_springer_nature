@@ -1,0 +1,175 @@
+COUNTRY,INCOME_GROUP,PUB_CNT
+United States,H,87882
+Germany,H,28541
+United Kingdom,H,23245
+Japan,H,23113
+Korea, Rep.,H,18262
+Italy,H,17814
+Canada,H,13271
+France,H,12868
+Australia,H,12351
+Spain,H,10974
+Netherlands,H,10205
+Poland,H,5836
+Switzerland,H,5788
+Taiwan, China,H,5754
+Sweden,H,5534
+Belgium,H,4116
+Austria,H,3732
+Denmark,H,3502
+Israel,H,3361
+Norway,H,2901
+Portugal,H,2874
+Finland,H,2583
+Greece,H,2529
+Czech Republic,H,2400
+Saudi Arabia,H,2308
+Singapore,H,2180
+New Zealand,H,1974
+Hong Kong SAR, China,H,1911
+Hungary,H,1543
+Ireland,H,1527
+Chile,H,1213
+Slovak Republic,H,702
+Slovenia,H,615
+United Arab Emirates,H,509
+Lithuania,H,402
+Qatar,H,332
+Cyprus,H,295
+Estonia,H,288
+Macao SAR, China,H,197
+Kuwait,H,195
+Luxembourg,H,186
+Uruguay,H,167
+Oman,H,163
+Iceland,H,135
+Latvia,H,130
+Malta,H,71
+Brunei Darussalam,H,57
+Puerto Rico,H,54
+Bahrain,H,52
+Trinidad and Tobago,H,47
+New Caledonia,H,19
+Barbados,H,19
+Monaco,H,10
+Bahamas, The,H,10
+San Marino,H,9
+Greenland,H,8
+Liechtenstein,H,8
+French Polynesia,H,8
+St. Kitts and Nevis,H,8
+Faeroe Islands,H,6
+Guam,H,4
+Bermuda,H,4
+Seychelles,H,2
+Virgin Islands (U.S.),H,2
+Andorra,H,1
+Cayman Islands,H,1
+Ethiopia,L,1328
+Uganda,L,325
+Tanzania,L,278
+Nepal,L,255
+Burkina Faso,L,81
+Benin,L,80
+Malawi,L,77
+Rwanda,L,53
+Mozambique,L,47
+Afghanistan,L,34
+Korea, Dem. Rep.,L,33
+Madagascar,L,28
+Gambia, The,L,23
+Togo,L,21
+Mali,L,21
+Eritrea,L,14
+Niger,L,14
+Sierra Leone,L,9
+Congo, Dem. Rep.,L,7
+Burundi,L,6
+Central African Republic,L,6
+Guinea,L,5
+Chad,L,4
+Liberia,L,4
+Haiti,L,2
+Guinea-Bissau,L,1
+India,LM,28839
+Egypt, Arab Rep.,LM,3242
+Ukraine,LM,2779
+Pakistan,LM,2615
+Tunisia,LM,1478
+Nigeria,LM,1105
+Vietnam,LM,1077
+Morocco,LM,842
+Bangladesh,LM,578
+Ghana,LM,540
+Kenya,LM,470
+Indonesia,LM,443
+Cameroon,LM,423
+Philippines,LM,217
+Uzbekistan,LM,143
+West Bank and Gaza,LM,134
+Sudan,LM,94
+Zambia,LM,89
+Côte d'Ivoire,LM,55
+Moldova,LM,48
+Myanmar,LM,40
+Cambodia,LM,39
+Kyrgyz Republic,LM,36
+Congo, Rep.,LM,34
+Bolivia,LM,27
+Mongolia,LM,27
+Lao PDR,LM,20
+Papua New Guinea,LM,17
+Bhutan,LM,10
+Eswatini,LM,10
+Vanuatu,LM,9
+Nicaragua,LM,7
+Honduras,LM,6
+El Salvador,LM,5
+Mauritania,LM,5
+Lesotho,LM,4
+Micronesia, Fed. Sts.,LM,1
+China,UM,98029
+Russian Federation,UM,40234
+Iran, Islamic Rep.,UM,13667
+Brazil,UM,11318
+Turkey,UM,7064
+Mexico,UM,3323
+Malaysia,UM,2805
+South Africa,UM,2613
+Thailand,UM,2204
+Algeria,UM,1296
+Romania,UM,1086
+Serbia,UM,1022
+Colombia,UM,756
+Belarus,UM,642
+Kazakhstan,UM,515
+Lebanon,UM,412
+Azerbaijan,UM,405
+Iraq,UM,360
+Bulgaria,UM,336
+Peru,UM,151
+Ecuador,UM,146
+Cuba,UM,114
+Venezuela, RB,UM,102
+Costa Rica,UM,72
+North Macedonia,UM,65
+Botswana,UM,64
+Montenegro,UM,57
+Bosnia and Herzegovina,UM,57
+Fiji,UM,28
+Mauritius,UM,25
+Jamaica,UM,23
+Paraguay,UM,22
+Albania,UM,19
+Namibia,UM,18
+Gabon,UM,14
+Grenada,UM,13
+Libya,UM,9
+Maldives,UM,9
+Suriname,UM,8
+Dominican Republic,UM,5
+Turkmenistan,UM,4
+Guyana,UM,4
+Dominica,UM,2
+Belize,UM,1
+
