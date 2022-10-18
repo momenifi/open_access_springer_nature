@@ -1,4 +1,4 @@
-COUNTRY,INCOME_GROUP,PUB_CNT
+country,income_group,number_of_publications
 United States,H,87882
 Germany,H,28541
 United Kingdom,H,23245
