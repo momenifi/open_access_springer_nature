@@ -33,6 +33,6 @@ UNPW_OA_STATUS: five possible access statuses (gold, hybrid, green, bronze, clos
 FIELD: scientific field of publication (the same as the journal's field)
 APC_USD: APC of the journal in US dollars
 JOURNAL_RANK: journal rank of the journal based on its h-index
-Springer_agreement: if transformative agreement with Springer nature is available for the country of the corresponding author
+Springer_agreement: if transformative agreement with Springer nature is available for the country of the corresponding author. For Germany just for authors afiliated with Max Planck Institues
 waiver_eligible: 1 if the corresponding author is eligible for the APC waiver otherwise 0
 discount_eligible: 1 if the corresponding author is eligible for the APC discount otherwise 0
