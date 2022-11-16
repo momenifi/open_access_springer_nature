@@ -15,7 +15,7 @@ GENDER: for male one and female 0, null value for unknown gender status
 
 FIRSTPUB: First publication of the corresponding author
 
-?COUNT_CA_PUBLISH_HYB_GOLD: the number of CA publications in hybrid journals (source Unpaywall)
+COUNT_CA_PUBLISH_HYB: the number of CA publications in hybrid journals (source Unpaywall)
 
 COUNT_HYBRID_OA_PUBLISH: the number of OA publications in hybrid journals (source Unpaywall)
 
@@ -57,8 +57,10 @@ APC_USD: APC of the journal in US dollars
 
 JOURNAL_RANK: journal rank of the journal based on its h-index
 
-Springer_agreement: if transformative agreement with Springer nature is available for the country of the corresponding author. For Germany just for authors afiliated with Max Planck Institues
+AGREEMENT: if transformative agreement with Springer nature is available for the country of the corresponding author. For Germany just for authors afiliated with Max Planck Institues
 
-waiver_eligible: 1 if the corresponding author is eligible for the APC waiver otherwise 0
+WAIVER_ELIGIBLE: 1 if the corresponding author is eligible for the APC waiver otherwise 0
 
-discount_eligible: 1 if the corresponding author is eligible for the APC discount otherwise 0
+DISCOUNT_ELIGIBLE: 1 if the corresponding author is eligible for the APC discount otherwise 0
+
+AVG_GDP_PER_CAPITA: average countries' GDP per capita for years 2017 and 2018
